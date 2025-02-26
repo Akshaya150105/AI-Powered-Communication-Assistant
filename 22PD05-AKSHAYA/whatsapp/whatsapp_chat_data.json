@@ -1,0 +1,376 @@
+{
+  "whatsapp_business_chats": [
+    {
+      "input": "Hi, do you have the new XPhone Pro in stock?",
+      "response": "Hello! Yes, we have the XPhone Pro in stock in all colors. Would you like to reserve one?"
+    },
+    {
+      "input": "Great! How much is it?",
+      "response": "The XPhone Pro is $999 for the 128GB model and $1,199 for the 256GB model. We also offer a 12-month payment plan."
+    },
+    {
+      "input": "I'll take the 256GB in black. Can I pick it up today?",
+      "response": "Perfect choice! Yes, you can pick it up anytime today until 8PM. We'll have it ready for you at the counter. Could you provide your full name for the reservation?"
+    },
+    {
+      "input": "Hello, I ordered a laptop last week but haven't received any shipping updates. Order #TG78945.",
+      "response": "I apologize for the delay. Let me check your order status right away. I can see that your order #TG78945 was shipped yesterday and should arrive by tomorrow. I'll send you the tracking details in a moment."
+    },
+    {
+      "input": "Do you offer international shipping?",
+      "response": "Yes, we do offer international shipping to over 50 countries. Shipping costs and delivery times vary by location. Could you let me know which country you need delivery to so I can provide specific information?"
+    },
+    {
+      "input": "What are your store hours?",
+      "response": "Our store is open Monday-Friday from 9AM to 8PM, Saturday from 10AM to 7PM, and Sunday from 11AM to 6PM. On public holidays, we operate from 11AM to 5PM."
+    },
+    {
+      "input": "Can I return a product if I don't like it?",
+      "response": "Absolutely! We have a 30-day return policy for all unused products in their original packaging. You can return items in-store or request a free return shipping label through our website."
+    },
+    {
+      "input": "I want to check if my order has been processed",
+      "response": "I'd be happy to check that for you. Could you please provide your order number or the email address used for the purchase?"
+    },
+    {
+      "input": "My order number is WA-39562",
+      "response": "Thank you. I can confirm that order #WA-39562 has been processed and is currently being prepared for shipping. You should receive a shipping confirmation email within the next 24 hours."
+    },
+    {
+      "input": "Is the black leather wallet in stock?",
+      "response": "Let me check our inventory for you. Yes, the black leather wallet is currently in stock! We have 5 units available. Would you like to purchase one?"
+    },
+    {
+      "input": "Can I get a discount if I buy multiple items?",
+      "response": "Yes! We offer a 10% discount when you purchase 3 or more items, and a 15% discount for orders over $200. These discounts are automatically applied at checkout."
+    },
+    {
+      "input": "How long will shipping take to California?",
+      "response": "For standard shipping to California, delivery typically takes 3-5 business days. We also offer express shipping options that can deliver within 1-2 business days for an additional fee."
+    },
+    {
+      "input": "I need to change my delivery address",
+      "response": "I'd be happy to help you update your delivery address. Could you please provide your order number and the new delivery address?"
+    },
+    {
+      "input": "My product arrived damaged",
+      "response": "I'm very sorry to hear that your product arrived damaged. Please send us a photo of the damaged item, and we'll arrange for a replacement to be sent to you immediately at no extra cost."
+    },
+    {
+      "input": "Do you have any ongoing promotions?",
+      "response": "Yes! We're currently running our Spring Sale with 20% off all clothing items and buy-one-get-one-free on selected accessories. The promotion runs until the end of the month."
+    },
+    {
+      "input": "What payment methods do you accept?",
+      "response": "We accept all major credit cards (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, and bank transfers. We also offer installment payment options through Klarna and Afterpay."
+    },
+    {
+      "input": "Hello",
+      "response": "Hello! Welcome to [Store Name]. How can I assist you today?"
+    },
+    {
+      "input": "I want to speak to a human",
+      "response": "I understand you'd like to speak with a customer service representative. I can connect you with one of our team members. They'll respond within the next 5-10 minutes during our business hours (9AM-8PM). Would you like me to do that for you?"
+    },
+    {
+      "input": "👋",
+      "response": "Hello there! 😊 Welcome to [Store Name]. How can I help you today?"
+    },
+    {
+      "input": "What's your location?",
+      "response": "Our main store is located at 123 Main Street, Downtown, with additional locations at Central Mall and Westside Shopping Center. Would you like the full address and directions to any specific location?"
+    },
+    {
+      "input": "Do you sell gift cards?",
+      "response": "Yes, we do sell gift cards! They're available in denominations of $25, $50, $100, and $200. You can purchase them online or in any of our physical stores."
+    },
+    {
+      "input": "How do I track my order?",
+      "response": "You can track your order by clicking the tracking link in your shipping confirmation email. Alternatively, you can provide me with your order number, and I'll check the status for you right away."
+    },
+    {
+      "input": "Can I change the size of an item I ordered?",
+      "response": "If your order hasn't been shipped yet, we can definitely change the size for you. Please provide your order number, the item you want to change, and the new size you'd prefer."
+    },
+    {
+      "input": "What's the difference between your basic and premium subscription?",
+      "response": "Our Basic subscription ($9.99/month) includes access to standard features and 5GB storage. The Premium subscription ($19.99/month) offers advanced features, priority support, 50GB storage, and exclusive content. Would you like more specific details about any particular feature?"
+    },
+    {
+      "input": "Can you recommend a gift for my mom?",
+      "response": "I'd be happy to help you find a gift for your mom! Could you share a bit about what she likes or her interests? We have popular gift options like our scented candle gift sets, luxury bath products, personalized jewelry, and elegant scarves."
+    },
+    {
+      "input": "I forgot my password",
+      "response": "No problem! You can reset your password by clicking on the 'Forgot Password' link on our login page. We'll send a password reset link to your registered email address. If you need further assistance, I can guide you through the process."
+    },
+    {
+      "input": "Can I cancel my subscription?",
+      "response": "Yes, you can cancel your subscription anytime. Go to 'My Account' > 'Subscriptions' and click on 'Cancel Subscription'. Your subscription will remain active until the end of your current billing period. Would you like me to help troubleshoot any issues you're having instead?"
+    },
+    {
+      "input": "What sizes do your t-shirts come in?",
+      "response": "Our t-shirts are available in sizes XS, S, M, L, XL, and XXL. We also offer selected styles in 3XL. Our size guide with detailed measurements is available on each product page to help you find the perfect fit."
+    },
+    {
+      "input": "I need help choosing the right product",
+      "response": "I'd be happy to help you choose the right product! Could you tell me a bit more about what you're looking for and how you plan to use it? This will help me make the best recommendation for your specific needs."
+    },
+    {
+      "input": "How long is the warranty?",
+      "response": "Our electronic products come with a standard 1-year manufacturer's warranty that covers defects in materials and workmanship. We also offer extended warranty options of 2 or 3 years for an additional fee at the time of purchase."
+    },
+    {
+      "input": "Can I get a refund if I don't like the product?",
+      "response": "Yes, we offer a 30-day satisfaction guarantee. If you're not completely satisfied with your purchase, you can return it within 30 days for a full refund, as long as the item is in its original condition with all packaging and accessories."
+    },
+    {
+      "input": "I want to file a complaint",
+      "response": "I'm sorry to hear you're experiencing an issue. We take all feedback seriously. Could you please provide details about your concern? I'll ensure it's addressed properly by our customer experience team, who will follow up with you directly."
+    },
+    {
+      "input": "When will the yellow dress be back in stock?",
+      "response": "Let me check our inventory system for the yellow dress. It looks like we're expecting a restock in about 2 weeks. Would you like me to notify you when it becomes available? I can add your contact information to our notification list."
+    },
+    {
+      "input": "Do you offer student discounts?",
+      "response": "Yes, we offer a 15% student discount! To claim it, please verify your student status through our website using a valid .edu email address or student ID verification service. The discount can be used for most regular-priced items."
+    },
+    {
+      "input": "Can I speak to a manager?",
+      "response": "I understand you'd like to speak with a manager. I'll arrange for our store manager to contact you directly. Could you please provide a convenient time for them to reach out, and confirm the phone number or email they should use?"
+    },
+    {
+      "input": "Do you have vegan options?",
+      "response": "Yes, we have a wide range of vegan products! All our vegan items are clearly labeled on our website and in-store with our 'Vegan-Friendly' tag. You can also use the 'Vegan' filter on our website to see all available options."
+    },
+    {
+      "input": "How do I apply the promo code?",
+      "response": "To apply a promo code, add your desired items to your cart, then proceed to checkout. You'll see a field labeled 'Promo Code' or 'Discount Code' where you can enter your code. Click 'Apply' and the discount will be reflected in your order total."
+    },
+    {
+      "input": "Is this product made in the USA?",
+      "response": "Yes, this particular product is proudly made in the USA. We clearly indicate the country of origin for all our products on their respective product pages under the 'Specifications' tab."
+    },
+    {
+      "input": "Can I change my order after placing it?",
+      "response": "Yes, you can make changes to your order if it hasn't been processed yet. Please provide your order number, and let me know what changes you'd like to make. We'll do our best to accommodate your request if the order hasn't entered the shipping phase."
+    },
+    {
+      "input": "Do you ship to PO boxes?",
+      "response": "Yes, we do ship to PO boxes for standard shipping options. However, expedited or express shipping methods may require a physical street address. Is there a specific shipping method you're interested in?"
+    },
+    {
+      "input": "What ingredients are in your face cream?",
+      "response": "Our face cream contains: Aqua, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Helianthus Annuus Seed Oil, Butyrospermum Parkii Butter, Squalane, Tocopherol, and natural fragrance. It's paraben-free, sulfate-free, and not tested on animals."
+    },
+    {
+      "input": "How do I assemble the bookshelf I purchased?",
+      "response": "Assembly instructions are included in the package. For your convenience, I can also send you a digital copy of the assembly manual along with our helpful video tutorial. Would you like me to send those to you right away?"
+    },
+    {
+      "input": "When will my credit card be charged?",
+      "response": "Your credit card will be charged only when your order ships. We place a temporary authorization hold when you place the order, but the actual charge occurs at the time of shipping, not when you place the order."
+    },
+    {
+      "input": "Can I get an invoice for my purchase?",
+      "response": "Absolutely! A digital invoice is automatically sent to your email after your purchase. If you need a specific format or additional copies, please provide your order number and I'll have our accounts team send it to you right away."
+    },
+    {
+      "input": "👍",
+      "response": "Thank you! I'm glad I could help. Is there anything else you need assistance with today? 😊"
+    },
+    {
+      "input": "Can I use multiple promo codes?",
+      "response": "Unfortunately, our system only allows one promo code per order. I would recommend using the code that offers you the highest discount value for your current purchase."
+    },
+    {
+      "input": "What's your best-selling product?",
+      "response": "Our current best-seller is the Ultra-Hydrating Face Serum, which has received over 2,000 5-star reviews. It's particularly popular for its lightweight formula and effective results for all skin types."
+    },
+    {
+      "input": "I need to schedule a service appointment",
+      "response": "I'd be happy to help you schedule a service appointment. Could you please provide your preferred date and time, as well as a brief description of the service you need? I'll check our availability and confirm your slot."
+    },
+    {
+      "input": "Can I customize this product?",
+      "response": "Yes, we offer customization options for this product! You can personalize with different colors, add engraving (up to 20 characters), or choose from several design variations. Would you like me to explain the customization process in more detail?"
+    },
+    {
+      "input": "Do you price match?",
+      "response": "Yes, we do offer price matching for identical items sold by major retailers. To request a price match, please send us the competitor's current advertised price along with the product link or image of the advertisement."
+    },
+    {
+      "input": "What's the difference between your regular and premium model?",
+      "response": "The premium model offers several advantages over our regular model: 1) Upgraded materials for better durability, 2) Extended battery life (12 hours vs 8 hours), 3) Advanced features including smart connectivity, and 4) 3-year warranty instead of 1 year. The premium is $50 more than the regular model."
+    },
+    {
+      "input": "Can I order something that's not on your website?",
+      "response": "We may be able to special order items not listed on our website. Please provide details about the specific product you're looking for, and I'll check with our purchasing department to see if we can source it for you."
+    },
+    {
+      "input": "I want to see how this would look before buying",
+      "response": "We understand wanting to visualize the product before purchasing! You can use our AR feature on the mobile app to see how it would look in your space. We also offer free virtual consultation sessions where our design experts can help you visualize the products in your environment."
+    },
+    {
+      "input": "Can I pick up my online order in store?",
+      "response": "Yes, we offer free in-store pickup for all online orders! During checkout, simply select the 'Store Pickup' option and choose your preferred location. We'll notify you when your order is ready for collection, typically within 2 hours during business hours."
+    },
+    {
+      "input": "I'm looking for a gift for someone who has everything",
+      "response": "For someone who seems to have everything, our experience gifts are often a great choice! Consider our gourmet cooking class, personalized star map of a significant date, custom photo album, or our curated monthly subscription box. Would you like details on any of these options?"
+    },
+    {
+      "input": "Do you have an affiliate program?",
+      "response": "Yes, we do have an affiliate program! Partners earn 10-15% commission on sales generated through their unique links. You can apply through the 'Affiliates' section on our website, and our team typically reviews applications within 3-5 business days."
+    },
+    {
+      "input": "I need to update my account information",
+      "response": "You can update your account information by logging into your account on our website and navigating to 'Account Settings'. If you're having trouble, I can guide you through the process or assist with specific updates directly. What information would you like to change?"
+    },
+    {
+      "input": "What's the status of my repair?",
+      "response": "I'd be happy to check the status of your repair. Could you please provide your repair order number or the phone number associated with your repair request?"
+    },
+    {
+      "input": "Are your products eco-friendly?",
+      "response": "Many of our products are designed with sustainability in mind. We use recycled materials wherever possible, minimize packaging waste, and have a growing 'Green Line' of products that are 100% eco-friendly. Each product page indicates the specific eco-friendly features of that item."
+    },
+    {
+      "input": "What's new in your store?",
+      "response": "We've just launched our Spring collection featuring lightweight blazers, floral dresses, and our new eco-friendly home accessories line. Our newest tech arrivals include the SmartWatch Series 5 and noise-canceling wireless earbuds. Would you like me to send you our 'New Arrivals' catalog?"
+    },
+    {
+      "input": "Is this product compatible with my device?",
+      "response": "To confirm compatibility, could you please share the specific model and version of your device? Once I have that information, I can check if this product will work properly with your particular device."
+    },
+    {
+      "input": "Will this fit a 6-year-old?",
+      "response": "Our children's sizes are based on age ranges and measurements. For a typical 6-year-old, our size 6-7 would usually be appropriate. For the most accurate fit, I'd recommend checking the detailed size chart on the product page, which includes height and weight guidelines."
+    },
+    {
+      "input": "What are the dimensions of this product?",
+      "response": "This product measures 12 inches in length, 8 inches in width, and 4 inches in height. It weighs approximately 2.5 pounds. These dimensions are also listed on the product specifications tab on our website."
+    },
+    {
+      "input": "I want to cancel my order",
+      "response": "I can help you with canceling your order. If your order hasn't been shipped yet, we can process a full cancellation. Please provide your order number, and I'll check its current status to see if cancellation is still possible."
+    },
+    {
+      "input": "Can I get an estimated delivery date?",
+      "response": "Based on your location and the shipping method selected, your estimated delivery date would be between March 3-5. Once your order ships, you'll receive a confirmation email with tracking information for more precise delivery updates."
+    },
+    {
+      "input": "Do you offer installation services?",
+      "response": "Yes, we do offer professional installation services for this product at an additional fee of $75. Our certified technicians will ensure proper setup and demonstrate how to use all features. Would you like to add installation service to your order?"
+    },
+    {
+      "input": "Is there a waitlist for sold-out items?",
+      "response": "Yes, we maintain a waitlist for popular items that are currently sold out. I can add you to the waitlist for this product, and you'll receive an email notification as soon as it's back in stock. Would you like me to add you?"
+    },
+    {
+      "input": "What's your most popular package?",
+      "response": "Our most popular package is the Premium Bundle, which includes the main product plus three essential accessories at a 20% discount compared to buying them separately. About 70% of our customers choose this option for the best value."
+    },
+    {
+      "input": "Can I get this by tomorrow?",
+      "response": "For next-day delivery, you would need to place your order within the next 3 hours and select our 'Express Shipping' option at checkout. There's an additional fee of $15.99 for this service, and it's available for your location based on our records."
+    },
+    {
+      "input": "How do I know which size to order?",
+      "response": "To find your perfect size, I recommend using our size guide available on each product page. You can also try our 'Virtual Fit' tool that uses your measurements to suggest the best size. For personalized assistance, our fit specialists are available for video consultation."
+    },
+    {
+      "input": "Do you offer bulk discounts?",
+      "response": "Yes, we offer tiered discounts for bulk purchases: 10% off for orders of 10-24 units, 15% off for 25-49 units, and 20% off for 50+ units. For very large orders, please contact our business sales team for custom pricing."
+    },
+    {
+      "input": "What's your customer service phone number?",
+      "response": "Our customer service team can be reached at 1-800-555-1234, Monday through Friday from 8AM to 8PM, and Saturday from 9AM to 5PM (Eastern Time). You can also request a callback if you prefer, and one of our representatives will call you at your convenient time."
+    },
+    {
+      "input": "Do you sell replacement parts?",
+      "response": "Yes, we do sell replacement parts for all our products. Please provide the model number of your item, and I can help you find the specific parts you need. Most replacement parts are covered under warranty if your product is still within the warranty period."
+    },
+    {
+      "input": "Can I use your app to place orders?",
+      "response": "Yes, our mobile app is available for both iOS and Android devices. You can place orders, track shipments, manage your account, and even use our AR features to visualize products in your space. First-time app users also receive a 10% discount on their first purchase!"
+    },
+    {
+      "input": "I have a technical issue with your website",
+      "response": "I'm sorry you're experiencing technical difficulties with our website. Could you please describe the issue you're facing and which device/browser you're using? This will help our technical team address the problem efficiently."
+    },
+    {
+      "input": "Can I make changes to a recurring order?",
+      "response": "Yes, you can modify your recurring order at any time. Log into your account, go to 'Subscriptions', and you'll see options to change products, quantities, delivery frequency, shipping address, or payment method. Changes made before your next processing date will apply to your next delivery."
+    },
+    {
+      "input": "Is my data secure with you?",
+      "response": "We take data security very seriously. All personal and payment information is encrypted using industry-standard SSL technology. We never store complete credit card information, and we adhere to strict GDPR and CCPA compliance guidelines. Our full privacy policy is available on our website."
+    },
+    {
+      "input": "Tell me about your loyalty program",
+      "response": "Our loyalty program rewards you with 1 point for every dollar spent. Points can be redeemed for discounts, free shipping, exclusive products, or early access to new releases. You also receive bonus points on your birthday and anniversary of joining. Membership is free and automatic upon your first purchase."
+    },
+    {
+      "input": "What's included in the box?",
+      "response": "The package includes: 1) The main product, 2) Power adapter, 3) Quick start guide, 4) Warranty card, and 5) Accessory kit with mounting hardware. All components are securely packed in recyclable packaging materials."
+    },
+    {
+      "input": "Are there any hidden fees?",
+      "response": "We believe in transparent pricing with no hidden fees. The price you see includes the product cost and any applicable taxes. Shipping costs are clearly displayed at checkout before payment. We will never add unexpected charges to your order."
+    },
+    {
+      "input": "I need the product in a different color",
+      "response": "This product is currently available in black, white, navy blue, and forest green. If you've already placed an order and would like to change the color, please provide your order number, and I'll check if we can modify it before shipping."
+    },
+    {
+      "input": "Can I get a different delivery date?",
+      "response": "We can certainly arrange for a different delivery date to better suit your schedule. Please let me know your preferred date, and I'll update your order accordingly. Note that we can only reschedule deliveries that haven't been shipped yet."
+    },
+    {
+      "input": "What's your fastest shipping option?",
+      "response": "Our fastest shipping option is Same-Day Delivery, available for orders placed before 10AM in select metro areas. Next-Day Express is available nationwide for orders placed before 2PM. Both options have additional fees that will be displayed at checkout."
+    },
+    {
+      "input": "Do you ship internationally?",
+      "response": "Yes, we ship to over 50 countries worldwide. International shipping typically takes 7-14 business days depending on the destination. Customs fees and import taxes may apply and are the responsibility of the recipient. Would you like information about shipping to a specific country?"
+    },
+    {
+      "input": "I need a copy of my receipt",
+      "response": "I'd be happy to send you a copy of your receipt. Please provide your order number or the email address associated with your purchase, and I'll email you a copy of your receipt right away."
+    },
+    {
+      "input": "What forms of ID do you accept?",
+      "response": "For age-restricted products or account verification, we accept government-issued photo ID such as a driver's license, passport, or national identity card. For in-store pickups, the ID must match the name on the order."
+    },
+    {
+      "input": "I want to split my payment across multiple cards",
+      "response": "Currently, our online system only supports one payment method per transaction. However, you can purchase a gift card with one payment method and then use the gift card plus another payment method to complete your purchase."
+    },
+    {
+      "input": "I'm a new customer, do you have any special offers?",
+      "response": "Welcome to our store! Yes, new customers receive a 15% discount on their first purchase when they sign up for our newsletter. I can send you a sign-up link, or you can enter your email at checkout to receive the discount immediately."
+    },
+    {
+      "input": "I'm looking for something similar to what I bought before",
+      "response": "I'd be happy to recommend similar products! Could you share which item you purchased previously that you enjoyed? This will help me suggest the best alternatives or complementary products that match your preferences."
+    },
+    {
+      "input": "I don't know which model to choose",
+      "response": "I understand it can be challenging to choose between different models. To help you make the best decision, could you share what you'll be using the product for and any specific features that are important to you? This will help me recommend the most suitable option."
+    },
+    {
+      "input": "Do you offer extended warranty?",
+      "response": "Yes, we offer extended warranty plans that provide additional coverage beyond the standard manufacturer's warranty. For this product, you can add 2 additional years of coverage for $29.99 or 3 additional years for $39.99. The extended warranty covers all repairs and includes priority service."
+    },
+    {
+      "input": "What's your company's sustainability policy?",
+      "response": "Our sustainability initiatives include carbon-neutral shipping, recyclable packaging, ethical sourcing practices, and our pledge to be plastic-free by 2026. We're also committed to reducing our carbon footprint by 50% by 2027 and achieving net-zero emissions by 2030."
+    },
+    {
+      "input": "I want to submit a product review",
+      "response": "We appreciate your feedback! You can submit a product review by logging into your account, finding the product in your order history, and clicking 'Write a Review'. You can rate the product, upload photos, and share your experience to help other customers make informed decisions."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Hi Akshayaa you busy? Nope Do I Look busy okayyyyyyyyyyyyyyyyyyy konjammm I filled hot water for u Blue bucket I am going for movie will come back in a few hours Okayyyy Achachooo can u give my clothes for wash yes yes sapda pogum podhu i will give Wokay Eppo you will come? Akshyaaa sriii Hi Hey,I am sending you a remainder Dunnno In the context of artificial intelligence and language processing, NLP (Natural Language Processing) and LLM (Large Language Models) are closely related, but they are not the same. Here’s a breakdown of the key differences:
+Natural Language Processing (NLP):
+NLP is a broad field in artificial intelligence (AI) that focuses on the interaction between computers and human language. It encompasses a wide range of tasks, including:
+ • Text analysis: Tokenization, part-of-speech tagging, named entity recognition, etc.
+ • Speech processing: Converting speech to text (speech recognition) or generating speech from text (speech synthesis).
+ • Text generation: Creating new text based on given inputs (e.g., writing summaries, generating responses).
+ • Text classificat…

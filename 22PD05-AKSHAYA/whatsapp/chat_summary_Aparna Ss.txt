@@ -1,0 +1,1 @@
+Natural Language Processing (NLP) is a broad field in artificial intelligence (AI) that focuses on the interaction between computers and human language. It encompasses a wide range of tasks, including: Text analysis, part-of-speech tagging, named entity recognition, etc. NLP and LLM are closely related, but they are not the same.
