@@ -19,7 +19,7 @@
 - **Chat Summarization**: Applied a pre-trained BART model to summarize long conversations.
 - **Follow-ups & Reminders**: Used Chrome WebDriver to search contacts and send messages via WhatsApp Web. Implemented Python Scheduler to run reminders in a separate thread for scheduled message sending.
 
-## Findings & Recommendations
+## Findings 
 - **Email Categorization**: Initially used clustering-based labeling, then improved accuracy by combining NLP tools with a keyword-based approach and a Random Forest model.
 - **Slack Task Extraction**: Enhanced task identification by combining keyword-based techniques with NLP methods.
 - **WhatsApp Automation**: Explored API-based solutions initially, then transitioned to Selenium-based automation, addressing challenges like scrolling and "Read more" expansion.
