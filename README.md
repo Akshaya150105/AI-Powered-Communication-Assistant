@@ -7,7 +7,6 @@
 - **Summarization**: Implemented the T5 Transformer model (via Hugging Face’s pipeline API) for email summarization.
 - **Quick Responses**: Fine-tuned DialoGPT on a large email response dataset to generate automated replies.
 - **Reminders**: Filtered important unread emails using the Gmail query: `is:unread is:important -from:me -in:chats` and leveraged Gmail API’s `send()` method to send reminders.
-
 ### 2. Team Communication Optimization (Slack)
 - **Message Processing**: Integrated Slack API for message retrieval and used a Slack Bot Token for authentication.
 - **Summarization & Digests**: Employed `facebook/bart-large-cnn` for summarizing key discussions. The BART model extracts key topics, while keyword-based processing identifies action items.
